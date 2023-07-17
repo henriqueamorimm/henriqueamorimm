@@ -1,6 +1,3 @@
 ### Prazer, me chamo henrique! 🙂
 
-- 📚Estudando TypeScript, Python e outras tecnologias back-end!
-- 🗣Procurando sempre o máximo de networking possível!
-- 💹Empreendimento em daytrade e capitais!
-- 💻Ceo/Desenvolvedor Uork Tecnologia Ltda
+<h1>📚Estudando TypeScript, Python e outras tecnologias back-end!<br>🗣Procurando sempre o máximo de networking possível!<br>💹Empreendimento em daytrade e capitais!<br>💻Ceo/Desenvolvedor Uork Tecnologia Ltda</h1> 
