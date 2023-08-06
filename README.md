@@ -21,6 +21,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 - **Python**
 - **C#**
 - **Java**
+- **Lua**
 
 ## Contato
 Você pode me encontrar em diferentes plataformas:
