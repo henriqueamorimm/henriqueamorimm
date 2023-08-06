@@ -26,7 +26,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizado:
 ## Contato
 Você pode me encontrar em diferentes plataformas:
 
-- [E-mail](mailto:henriquecbsfn@gmail.com)
+- [E-mail](mailto:henrique@uork.org)
 - [Instagram](https://instagram.com/henriquechamonn)
 
 Fique à vontade para me contatar para colaborações, perguntas ou apenas para bater um papo sobre tecnologia!
